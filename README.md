@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/249595636?v=4" width="180" alt="Pushpendra Mishra" />
+
 # Pushpendra Mishra
 
 ### Lead Software Engineer | React Native | ReactJS | TypeScript | iOS
@@ -7,7 +9,7 @@
 I build reliable mobile and frontend products with clean architecture, strong performance, and predictable delivery.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge)](https://pushpendramishra35.github.io/aboutme/)
-[![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=for-the-badge)](mailto:Pushpendra.mishra660@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=for-the-badge)](mailto:pushpendramishra35@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge)](https://www.linkedin.com/in/pushpendra-mishra-53b133b3/)
 
 </div>
@@ -26,18 +28,9 @@ I work across mobile app delivery, frontend architecture, performance improvemen
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>React Native</h3>
-      <p>Mobile app features, stabilization, Firebase, Crashlytics, push notifications, payments, camera/scanner flows, Android/iOS release support.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>ReactJS</h3>
-      <p>Dashboard and CRM-style frontends, TypeScript architecture, reusable components, routing, API/data states, GraphQL/REST integration.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Technical Leadership</h3>
-      <p>Code reviews, technical design, mentoring, delivery planning, implementation guidance, and maintainable engineering practices.</p>
-    </td>
+    <td width="33%" valign="top"><h3>React Native</h3><p>Mobile app features, stabilization, Firebase, Crashlytics, push notifications, payments, camera/scanner flows, Android/iOS release support.</p></td>
+    <td width="33%" valign="top"><h3>ReactJS</h3><p>Dashboard and CRM-style frontends, TypeScript architecture, reusable components, routing, API/data states, GraphQL/REST integration.</p></td>
+    <td width="33%" valign="top"><h3>Technical Leadership</h3><p>Code reviews, technical design, mentoring, delivery planning, implementation guidance, and maintainable engineering practices.</p></td>
   </tr>
 </table>
 
@@ -72,36 +65,18 @@ I work across mobile app delivery, frontend architecture, performance improvemen
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>React Native Mobile App</h3>
-      <p>Built and maintained mobile functionality involving Firebase, payments, push notifications, camera scanner integration, responsive UI, Crashlytics, and app distribution workflows.</p>
-      <p><strong>Stack:</strong> React Native, JavaScript, Firebase Firestore, Dynamic Links, Crashlytics, Apple Pay, Google Pay, PayPal.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>ReactJS CRM Platform</h3>
-      <p>Worked on a CRM-style frontend platform with TypeScript, GraphQL, reusable components, routing, charts, testing, and Material UI.</p>
-      <p><strong>Stack:</strong> ReactJS, TypeScript, GraphQL, React Hooks, React Router, D3.js, Jest, Material UI.</p>
-    </td>
+    <td width="50%" valign="top"><h3>React Native Mobile App</h3><p>Built and maintained mobile functionality involving Firebase, payments, push notifications, camera scanner integration, responsive UI, Crashlytics, and app distribution workflows.</p><p><strong>Stack:</strong> React Native, JavaScript, Firebase Firestore, Dynamic Links, Crashlytics, Apple Pay, Google Pay, PayPal.</p></td>
+    <td width="50%" valign="top"><h3>ReactJS CRM Platform</h3><p>Worked on a CRM-style frontend platform with TypeScript, GraphQL, reusable components, routing, charts, testing, and Material UI.</p><p><strong>Stack:</strong> ReactJS, TypeScript, GraphQL, React Hooks, React Router, D3.js, Jest, Material UI.</p></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>iOS Media Application</h3>
-      <p>Worked on iOS workflows involving media editing, camera features, share extensions, push notification extensions, Firebase, AWS S3, and Giphy integration.</p>
-      <p><strong>Stack:</strong> Swift, Objective-C, Firebase Dynamic Links, Crashlytics, AWS S3, iMessage, Share Extension.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Frontend Architecture</h3>
-      <p>Designed and maintained reusable frontend patterns, improved UI performance, reviewed code, and helped teams move from requirements to maintainable implementation.</p>
-      <p><strong>Focus:</strong> TypeScript, reusable components, API integration, data states, performance, code review.</p>
-    </td>
+    <td width="50%" valign="top"><h3>iOS Media Application</h3><p>Worked on iOS workflows involving media editing, camera features, share extensions, push notification extensions, Firebase, AWS S3, and Giphy integration.</p><p><strong>Stack:</strong> Swift, Objective-C, Firebase Dynamic Links, Crashlytics, AWS S3, iMessage, Share Extension.</p></td>
+    <td width="50%" valign="top"><h3>Frontend Architecture</h3><p>Designed and maintained reusable frontend patterns, improved UI performance, reviewed code, and helped teams move from requirements to maintainable implementation.</p><p><strong>Focus:</strong> TypeScript, reusable components, API integration, data states, performance, code review.</p></td>
   </tr>
 </table>
 
 ---
 
 ## Engineering Approach
-
-I usually start by reducing uncertainty:
 
 1. Clarify the business goal and user flow.
 2. Understand the codebase, architecture, and release process.
@@ -112,22 +87,7 @@ I usually start by reducing uncertainty:
 
 ---
 
-## Public Demo Lab
-
-Original, non-confidential proof-of-work examples are being prepared across my two primary tracks.
-
-| Track | Demo | What It Shows | Status |
-| --- | --- | --- | --- |
-| React Native | App Stabilization Checklist | Crashes, release blockers, performance issues, dependencies, and first milestones. | In progress |
-| React Native | EAS Build & Update Workflow | Android/iOS builds, OTA updates, runtime versions, preview channels, and release safety. | In progress |
-| ReactJS | TypeScript Dashboard Architecture | Dashboard pages, routing, data states, reusable components, and API integration. | In progress |
-| ReactJS | Reusable Component System | Typed UI components with loading, empty, error, success, and testable states. | Planned |
-
----
-
 ## Portfolio Website
-
-For a more website-style view of my profile, visit:
 
 **[pushpendramishra35.github.io/aboutme](https://pushpendramishra35.github.io/aboutme/)**
 
@@ -137,5 +97,5 @@ For a more website-style view of my profile, visit:
 
 I am open to remote full-time, contract, and product engineering opportunities involving **React Native**, **ReactJS**, mobile app delivery, frontend architecture, and technical leadership.
 
-**Email:** [Pushpendra.mishra660@gmail.com](mailto:Pushpendra.mishra660@gmail.com)  
+**Email:** [pushpendramishra35@gmail.com](mailto:pushpendramishra35@gmail.com)  
 **LinkedIn:** [linkedin.com/in/pushpendra-mishra-53b133b3](https://www.linkedin.com/in/pushpendra-mishra-53b133b3/)
